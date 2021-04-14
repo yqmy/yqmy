@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yqmy
 - 👀 I’m interested in Machine Learning & IOT Security
-- 🌱 I’m currently learning SEU, (Southeast University, China) major in Cyber-Security 
+- 🌱 I’m currently learning in SEU(Southeast University, China)
 - 📫 How to reach me rumialunnar@gmail.com
 
 <!---
